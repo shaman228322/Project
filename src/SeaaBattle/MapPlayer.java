@@ -1,0 +1,5 @@
+package SeaaBattle;
+
+class MapPlayer{
+	
+}
